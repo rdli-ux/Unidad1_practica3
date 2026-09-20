@@ -5,7 +5,6 @@ def mostrar_inventario(inventario):
         print("El inventario está vacío.")
         return
     
-    # Formato de tabla sencillo con Python puro
     print(f"{'Nombre':<15} | {'Cantidad':<10} | {'Precio':<10}")
     print("-" * 40)
     for p in inventario:
