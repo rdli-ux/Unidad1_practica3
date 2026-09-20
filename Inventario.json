@@ -8,5 +8,10 @@
         "nombre": "Pepsi",
         "cantidad": 1,
         "precio": 30.0
+    },
+    {
+        "nombre": "churros",
+        "cantidad": 10,
+        "precio": 10.0
     }
 ]

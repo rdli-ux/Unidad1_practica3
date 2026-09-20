@@ -1,3 +1,12 @@
+'''
+Ricardo Daniel Lazo Ibarra
+GTIR246
+Este es un programa de inventario de mercancía para una tienda de abarrotes. Permite agregar, eliminar, actualizar y buscar productos, 
+así como mostrar el inventario completo y generar un reporte de productos agotados.
+'''
+
+
+
 import time
 from operaciones import (
     mostrar_inventario, 
