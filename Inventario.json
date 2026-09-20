@@ -3,5 +3,10 @@
         "nombre": "Coca",
         "cantidad": 4,
         "precio": 30.0
+    },
+    {
+        "nombre": "Pepsi",
+        "cantidad": 1,
+        "precio": 30.0
     }
 ]
